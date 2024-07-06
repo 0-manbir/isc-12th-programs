@@ -1,4 +1,4 @@
-This is a collection of ISC Class 11th and 12th Programs (Understanding Computer Science)
+This is a collection of ISC Class 11th and 12th Programs (Understanding Computer Science).
 This repository contains the important programs, and the projects of class 11th and 12th.
 
 ### Important
